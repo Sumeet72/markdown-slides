@@ -11,7 +11,7 @@ completely avoiding the need to edit HTML files directly.
 
 # Live demo
 
-**See for yourself**: check out the [live demo](https://da_doomer.gitlab.io/markdown-slides) (and the source file [`presentation.md`](example/presentation.md)).
+**See for yourself**: check out the [live demo](https://sumeet72.github.io/markdown-slides/example/presentation) (and the source file [`presentation.md`](example/presentation.md)).
 
 ![](https://user-images.githubusercontent.com/122831/126127604-45c8d817-560a-4d88-9344-7767777d8a83.gif)
 
