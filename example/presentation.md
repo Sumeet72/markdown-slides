@@ -21,8 +21,9 @@
 [comment]: # (respondToHashChanges: false)
 [comment]: # (Other settings are documented at https://revealjs.com/config/)
 
-John Doe | College University | July 3, 2020
-# Great title
+
+# Travelling
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QU3TeZxXDls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [comment]: # (A comment starting with three or more !!! marks a slide break.)
 [comment]: # (!!!)
@@ -30,165 +31,88 @@ John Doe | College University | July 3, 2020
 This is a sample presentation to showcase [markdown-slides](https://gitlab.com/da_doomer/markdown-slides). The source markdown file is [presentation.md](https://gitlab.com/da_doomer/markdown-slides/-/blob/master/example/presentation.md).
 
 
-[comment]: # (!!!)
+[comment]: # (!!! data-auto-animate)
 
-Use markdown to harness the power of Reveal.js.
-
-
-[comment]: # (!!!)
-
-## Lists and math
-
-- Using markdown to write presentations
-- Easy lists
-- LaTeX math syntax
-
-`$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
-
-[comment]: # (!!!)
-
-Code syntax highlighting and animations:
-
-```js [1-2|3|4]
-let a = 1;
-let b = 2;
-let c = x => 1 + 2 + x;
-c(3);
+## JAIPUR 
 ```
+int main() {
+string a = "Jai;"
+string b = "pur";
+string c = a + b;
+cout << c <<endl;
+return 0;
+}
+
+```
+
+
+[comment]: # (!!!)
+
+1. Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings.
+>It is also known as the Paris of India, and C. V. Raman called it the ~island~ Island of Glory. It is located 268 km (167 miles) from the national capital New Delhi. 
+
+2. Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. After independence in 1947, Jaipur was made the capital of the newly formed state of Rajasthan.
+ 
+
+[comment]: # (!!! data-auto-animate)
+
+## Places I visited
+ 
+| Places visited                                             | DAYS    |
+|------------------------------------------------------------|---------|
+| *Hawa Mahal, Jal Mahal, Street shopping*|DAY1 |
+| *City palace, Jantar Mantar,Shopping in Pink city*| DAY2 |
+| *World Trade Park, Dubai Bazar, Amer Fort, Sheesh Mahal*| DAY3 |
+| *Jaigarh Fort, Alert Hall, City Park, Gulabgarh*| DAY4  |
+
+
 
 [comment]: # (section attributes for the just-ending slide can be specified:)
 [comment]: # (!!! data-background-color="aquamarine")
 
-Use background videos, background pictures and **text formatting**,
-everything *without breaking* your markdown files.
+## Jammu and Kashmir
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Houseboats%2C_Dal_Lake%2C_Kashmir.jpg/250px-Houseboats%2C_Dal_Lake%2C_Kashmir.jpg)
 
 
-[comment]: # (Other background options: https://revealjs.com/backgrounds/)
-[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
-
-Even speaker notes, accessed through the `S` key on your keyboard.
-
-(You may have to allow pop-up windows and try again.)
-
-Note:
-This will only appear in the speaker view! 🤯
-
-
-[comment]: # (!!!)
-
-## Pictures
-
-![picture of spaghetti](media/image0.gif) <!-- .element: style="height:50vh; max-width:80vw; image-rendering: crisp-edges;" -->
-
-Showcase media including images, videos and animations.
-
-[comment]: # (!!!)
-
-## Animations
-
-- This is an example list
-- Just to showcase Reveal.js' animations
+Jammu and Kashmir is named after the two regions it encompasses – the Jammu region and the Kashmir Valley.The climate of Jammu and Kashmir varies with altitude and across regions. Southern and southwestern areas have a sub tropical climate, with hot summers and cool winters. This region receives most of its rainfall during the monsoon season. In the east and north, summers are usually pleasant. Jammu and Kashmir is named after the two regions it encompasses – the Jammu region and the Kashmir Valley.
 
 [comment]: # (!!! data-auto-animate)
 
-## Animations
+## Places I visited
 
-- This is an example list
-- Just to showcase Reveal.js' animations
-- This item will be automatically faded-in
+| Places visited                                             | DAYS    |
+|------------------------------------------------------------|---------|
+| *Pahalgam, Chandanwari, Pissu top*|DAY1 |
+| *Sheshnag, Mahagunspot*| DAY2 |
+| *Panchtarni, Amarnath Temple*| DAY3 |
+| *Srinagar, Dal Lake*| DAY4  |
 
-[comment]: # (!!! data-auto-animate)
-
-```js [1-2|3|4]
-let a = 1;
-let b = 2;
-let c = x => 1 + 2 + x;
-c(3);
-```
-<!-- .element: data-id="code" -->
-
-[comment]: # (!!! data-auto-animate)
-
-```js [5]
-let a = 1;
-let b = 2;
-let c = x => 1 + 2 + x;
-c(3);
-c(5);
-```
-<!-- .element: data-id="code" -->
-
-Animate code as well <!-- .element: class="fragment" data-fragment-index="1" -->
-
-[comment]: # (!!! data-auto-animate)
-
-Insert Youtube videos.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KPfzRSBzNX4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [comment]: # (!!!)
-
-Insert local videos.
-
-<iframe width="560" height="315" src="media/video.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[comment]: # (!!!)
-
-Download [markdown-slides](https://gitlab.com/da_doomer/markdown-slides)!
-
-[comment]: # (!!!)
-
-A couple more examples follow.
-
-[comment]: # (!!!)
-
-![logo](media/wide.png)
-
-***use markdown to write slides***
-
-Author Name
-
-[comment]: # (!!!)
-
-[comment]: # (!!! data-background-image="media/inkscape.png" data-background-size="contain")
-
-Press down on your keyboard or swipe down.
-
-[comment]: # (|||)
-
-**Vertical slides!**
-
-(thanks [@porvik!](https://gitlab.com/da_doomer/markdown-slides/-/issues/8))
-
-[comment]: # (|||)
-
-As many vertical slides as you like.
-
-[comment]: # (!!!)
-
-Add tables:
-
-| Insert | Tables |
-| ------ | ------ |
-| A row  | Another|
-| text   | more   |
-
-[comment]: # (!!!)
-
-## Vertical separator
-
-----------
-
-Some other text.
-
-[comment]: # (!!!)
-
-You can also use in-line HTML.
-
-<div style="font-size: 1em;">
-small
-</div>
 
 <div style="font-size: 5em;">
-large
+Tourism
 </div>
+
+- The Kashmir\_Valley is one of the top tourist destinations in India. Gulmarg, one of India's most popular ski resort destinations, is also home to the world's highest green golf course[^1]. 
+- The decrease in violence in the state has boosted the state's economy, specifically tourism.
+<iframe src="https://giphy.com/embed/TALfV4ytXE5IQZlUeK" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rahiofficial-rahi-maahi-escapewithmaahi-TALfV4ytXE5IQZlUeK">via GIPHY</a></p>
+
+
+[comment]: # (!!! data-auto-animate)
+__Places I want to visit__
+ - [x] Jaipur
+ - [x] Jammu & Kashmir
+ - [ ] Mumbai
+ - [ ] Agra
+ - [ ] Kerala
+
+
+
+For further information about hotel booking go to:-
+[Hotel Bookings](https://www.trivago.in/)
+
+<textarea data-template> Any reviews </textarea>
+
+[^1]: Cris Prystay (26 October 2007). [Fairway to Heaven](https://www.wsj.com/articles/SB119332713217271534?mod=googlenews_wsj). The Wall Street Journal.
+
