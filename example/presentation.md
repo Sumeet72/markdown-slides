@@ -22,7 +22,7 @@
 [comment]: # (Other settings are documented at https://revealjs.com/config/)
 
 John Doe | College University | July 3, 2020
-# Great Title
+# Travelling
 
 [comment]: # (A comment starting with three or more !!! marks a slide break.)
 [comment]: # (!!!)
