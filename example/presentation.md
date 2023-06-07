@@ -23,48 +23,21 @@
 
 John Doe | College University | July 3, 2020
 
-# Travelling ![image](https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v8)
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QU3TeZxXDls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 [comment]: # (A comment starting with three or more !!! marks a slide break.)
 [comment]: # (!!!)
 
-## JAIPUR
-
-
-```
-int main() {
-string a = "Jai;"
-string b = "pur";
-string c = a + b;
-cout << c <<endl;
-return 0;
-}
-
-```
-
-[comment]: # (!!!)
-
-1. Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings.
->It is also known as the Paris of India, and C. V. Raman called it the ~island~ Island of Glory. It is located 268 km (167 miles) from the national capital New Delhi. 
-
-2. Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. After independence in 1947, Jaipur was made the capital of the newly formed state of Rajasthan.
-    
 
 
 [comment]: # (!!!)
 
-## Places I visited
- 
-| Places visited                                    | DAYS    |
-|---------------------------------------------------|---------|
-| *Hawa Mahal, Jal Mahal, Street shopping*|DAY1 |
-| *City palace, Jantar Mantar,Shopping in Pink city*| DAY2 |
-| *World Trade Park, Dubai Bazar, Amer Fort, Sheesh Mahal*| DAY3 |
-| *Jaigarh Fort, Alert Hall, City Park, Gulabgarh*| DAY4  |
+
+
+
+[comment]: # (!!!)
+
 
 [comment]: # (!!!)
 
