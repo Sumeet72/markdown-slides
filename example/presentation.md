@@ -68,32 +68,20 @@ return 0;
 
 [comment]: # (!!!)
 
-Code syntax highlighting and animations:
 
-```js [1-2|3|4]
-let a = 1;
-let b = 2;
-let c = x => 1 + 2 + x;
-c(3);
-```
 
-Notice the background color change.
 
 [comment]: # (section attributes for the just-ending slide can be specified:)
 [comment]: # (!!! data-background-color="aquamarine")
 
-Use background videos, background pictures and **text formatting**,
-everything *without breaking* your markdown files.
+
 
 [comment]: # (Other background options: https://revealjs.com/backgrounds/)
 [comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 Even speaker notes, accessed through the `S` key on your keyboard.
 
-(You may have to allow pop-up windows and try again.)
 
-Note:
-This will only appear in the speaker view! 🤯
 
 [comment]: # (!!!)
 
